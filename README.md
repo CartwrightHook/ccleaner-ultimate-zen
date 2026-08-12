@@ -36,4 +36,4 @@ Full-featured **Ccleaner Ultimate Zen** productivity platform for team collabora
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
